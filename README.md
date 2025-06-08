@@ -44,19 +44,21 @@ I participated as part of a **five-person team** in both editions. All team memb
 
 ## Repository Structure
 
+```
 IMC-Prosperity-2023-2024/
 ├── 2023/
-│ ├── algorithmic/ ← Python scripts, notebooks, and backtests for 2023
-│ └── manual/ ← LaTeX write-ups or Jupyter notebooks for manual rounds (probability/optimization)
+│   ├── algorithmic/     ← Python scripts, notebooks, and backtests for 2023
+│   └── manual/          ← LaTeX write-ups or Jupyter notebooks for manual rounds (probability/optimization)
 ├── 2024/
-│ ├── algorithmic/ ← Refactored code base for 2024, with modular strategy files
-│ └── manual/ ← Solution write-ups to 2024 manual rounds
-├── plots/ ← Performance charts (PnL over time, PnL distribution, etc.)
-├── README.md ← This file
-└── .gitignore ← Ignored files/folders (e.g., data dumps, pycache)
+│   ├── algorithmic/     ← Refactored code base for 2024, with modular strategy files
+│   └── manual/          ← Solution write-ups to 2024 manual rounds
+├── plots/               ← Performance charts (PnL over time, PnL distribution, etc.)
+├── README.md            ← This file
+└── .gitignore           ← Ignored files/folders (e.g., data dumps, pycache)
+```
 
 
-- **`2023/algorithmic/`**  
+- **`2023/algorithmic/`** 
 
 - **`2023/manual/`**  
 
